@@ -1,3 +1,5 @@
+//https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5
+
 const myFavouriteAuthors = {
   NobelPrizeWinners: {
     yy1901: [
@@ -147,7 +149,7 @@ const myFavouriteAuthors = {
     // Get all the authors in an array
     const genres = Object.values(this.NobelPrizeWinners);
 
-   // console.log(genres);
+    // console.log(genres);
 
     // Store the current genre and author index
     let currentAuthorIndex = 0;
