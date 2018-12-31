@@ -1,4 +1,6 @@
-//https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5
+//https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e
+//A Simple Guide to ES6 Iterators in JavaScript with Examples
+//by Arfat Salman
 
 const myFavouriteAuthors = {
   NobelPrizeWinners: {
