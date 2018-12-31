@@ -147,7 +147,7 @@ const myFavouriteAuthors = {
     // Get all the authors in an array
     const genres = Object.values(this.NobelPrizeWinners);
 
-    console.log(genres);
+   // console.log(genres);
 
     // Store the current genre and author index
     let currentAuthorIndex = 0;
@@ -196,4 +196,4 @@ for (const author of myFavouriteAuthors) {
   console.log(author);
 }
 
-console.log(...myFavouriteAuthors);
+//console.log(...myFavouriteAuthors);
