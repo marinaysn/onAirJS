@@ -200,4 +200,4 @@ for (const author of myFavouriteAuthors) {
   console.log(author);
 }
 
-//console.log(...myFavouriteAuthors);
+console.log(...myFavouriteAuthors);
