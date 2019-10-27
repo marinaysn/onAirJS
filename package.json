@@ -1,0 +1,22 @@
+{
+  "name": "onairjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binarySearchTree.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinaysn/onAirJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinaysn/onAirJS/issues"
+  },
+  "homepage": "https://github.com/marinaysn/onAirJS#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
